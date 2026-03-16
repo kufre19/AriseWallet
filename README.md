@@ -22,7 +22,7 @@ If you don’t already have one installed, download and install either of the ab
 Make sure you have the following installed:
 - [Node.js](https://nodejs.org/) (v18+ recommended)
 - [npm]
-- [Expo] 
+- [Expo] (https://docs.expo.dev/tutorial/create-your-first-app/)
 - [Android Studio](https://developer.android.com/studio) or Expo go app for preview on andriod devices
 - Git
 
